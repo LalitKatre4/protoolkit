@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/protoolkit/', // <-- यह लाइन जोड़ें (अपनी repo का नाम)
 })
